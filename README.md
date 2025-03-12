@@ -27,35 +27,21 @@ calculator/
 2. Clone this repository:
 '''sh
 git clone https://github.com/Fabriciobarbosa-1?tab=overview&from=2025-02-01&to=2025-02-28
-```
-3. Access the project directory:
-'''sh
 
-```
+
 ## 🖥️ Usage Example
-
+```
 Choose an operation:
-
 1 - Sum
-
 2 - Subtraction
-
 3 - Multiplication
-
 4 - Division
-
 5 - Potentiation
-
 6 - Square Root
-
 7 - Logatithm
-
 Option: 1
-
 Enter the first number: 10
-
 Enter the second number: 5
-
 Result: 15
 ```
 
