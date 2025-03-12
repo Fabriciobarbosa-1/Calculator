@@ -44,6 +44,7 @@ Enter the first number: 10
 Enter the second number: 5
 Result: 15
 ```
+![image alt](https://github.com/Fabriciobarbosa-1/Calculator/blob/805703649f05e3dad917cc0448ed5e11941bb7ae/Calculator%20Test.png)
 
 ## 🔧 Future Improvements
 - Create a graphical interface with Tkinter or PyQt
