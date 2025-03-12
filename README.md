@@ -1,4 +1,4 @@
-🧮 # Python Calculator
+# 🧮 Python Calculator
 
 This project implements a simple calculator in Python, following the guidelines of PEP 8. The code is modular and can be reused in other projects.
 
